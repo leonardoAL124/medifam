@@ -1,0 +1,32 @@
+.color-cuerpo{
+    background-color: rgba(0, 123, 255, 0.3);
+}
+
+.barra-navegacion{
+    position: fixed; 
+    width: 100%; 
+    z-index: 1000;
+}
+
+.color-opciones-citas{
+    background-color: white;
+}
+
+.carrusel-posicion{
+    float: none; margin: 0 auto;
+}
+
+.carrusel-texto-fondo{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.titulos-especialidades{
+    color: white;
+}
+
+.estilo-titulo-formulario{
+    background-color: rgb(111, 171, 235); 
+    border-bottom-right-radius: 10px; 
+    border-bottom-left-radius: 10px; 
+    padding-top: 10px;
+}
